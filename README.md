@@ -1,5 +1,11 @@
 # FinancialData
 
+Free, open source industry-wide data to provide you with investment reference
+
+免费，开源的全行业金融数据，为你提供投资参考。
+
+Please visit: <https://wangyucode.github.io/financial-data/>
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
 
 ## Development server
